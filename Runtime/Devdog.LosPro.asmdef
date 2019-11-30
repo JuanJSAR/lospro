@@ -1,7 +1,7 @@
 {
     "name": "Devdog.LosPro",
     "references": [
-        "GUID:3c9e90df49b04fc4fb204f63e2018b5d"
+        "Devdog.General"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],
@@ -10,6 +10,5 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": []
+    "defineConstraints": []
 }

@@ -1,9 +1,8 @@
 {
     "name": "Devdog.LosPro.Editor",
     "references": [
-        "GUID:8e1e4829f1507504b92b63ccf93c7706",
-        "GUID:3c9e90df49b04fc4fb204f63e2018b5d",
-        "GUID:c7a4bca759fdef848900ae256eed9d50"
+        "Devdog.General",
+        "Devdog.LosPro"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [
@@ -14,6 +13,5 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": []
+    "defineConstraints": []
 }
