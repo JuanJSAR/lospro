@@ -1,6 +1,7 @@
 {
     "name": "Devdog.LosPro.Editor",
     "references": [
+        "Devdogio.General.Editor",
         "Devdog.General",
         "Devdog.LosPro"
     ],
